@@ -82,7 +82,7 @@ The Music Store database contains the following key tables:
 
 ## 👤 Author
 
-> Feel free to connect on [LinkedIn](#) | [GitHub](#)
+> Feel free to connect on [LinkedIn](https://www.linkedin.com/in/umarfaruk-shaikh/) | [GitHub](https://github.com/Umarfaruk0123)
 
 ---
 
